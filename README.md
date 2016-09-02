@@ -1,2 +1,6 @@
 # git_example
-Learning how to use git
+
+## Team Members
+
+* Emily Jiang - jiangyuqiemily@gmail.com
+
